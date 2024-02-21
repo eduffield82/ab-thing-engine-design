@@ -30,3 +30,4 @@ Id
    Channel 
 Hs 
   paste 2io3 inop2 iopnn i2n i2in po2in poni op2inp o2np io npio
+https://github.com/DarkEvamSar/they-su/blob/main/README.md%20character.md%20character.ji.md
